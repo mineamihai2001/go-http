@@ -2,6 +2,7 @@
 Http server implementation using <a href="https://go.dev" target="_blank">GO</a> with the <a href="https://pkg.go.dev/net/http" target="_blank">http package</a>
 
 ## Example in *main.go*
+API for managing **random facts**.
 
 ### run:
     ```
